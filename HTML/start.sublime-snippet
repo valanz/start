@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="" />
+    <meta name="reply-to" content="" />
+    <meta name="category" content="" />
+    <meta name="robots" content="index, follow" />
+    <meta name="Description" content="" />
+    <meta name="copyright" content="" />
+    <meta name="identifier-url" content="">
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:description" content="" />
+
+	<title>$0</title>
+
+	<link rel="stylesheet" href="">
+	
+	<script src="" type="text/javascript"></script>
+
+	<link rel="icon" type="image/x-icon" href="">
+
+</head>
+<body>
+	$1
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>start</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
