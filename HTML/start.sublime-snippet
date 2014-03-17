@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui" />
     <meta name="keywords" content="" />
     <meta name="reply-to" content="" />
     <meta name="category" content="" />
@@ -18,7 +18,7 @@
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:description" content="" />
 
-	<title>$0</title>
+	<title>${0:$TM_FILENAME}</title>
 
 	<link rel="stylesheet" href="">
 	
@@ -32,8 +32,6 @@
 </body>
 </html>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>start</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>source.html</scope>
 </snippet>
